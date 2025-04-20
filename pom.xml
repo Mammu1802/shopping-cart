@@ -78,4 +78,10 @@
 			<version>1.15</version>
 		</dependency>
 	</dependencies>
+	<distributionManagement>
+	<repository>
+		<id>Maven</id>
+		<url>http://52.53.248.223:8081/repository/Maven/</url>
+	</repository>
+	</distributionManagement>
 </project>
