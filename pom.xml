@@ -78,4 +78,5 @@
 			<version>1.15</version>
 		</dependency>
 	</dependencies>
+	<distributionManagement>
 </project>
